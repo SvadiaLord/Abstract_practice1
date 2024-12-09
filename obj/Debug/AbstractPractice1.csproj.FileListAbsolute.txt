@@ -1,0 +1,7 @@
+C:\Users\Пользователь\source\repos\AbstractPractice1\bin\Debug\AbstractPractice1.exe.config
+C:\Users\Пользователь\source\repos\AbstractPractice1\bin\Debug\AbstractPractice1.exe
+C:\Users\Пользователь\source\repos\AbstractPractice1\bin\Debug\AbstractPractice1.pdb
+C:\Users\Пользователь\source\repos\AbstractPractice1\obj\Debug\AbstractPractice1.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\AbstractPractice1\obj\Debug\AbstractPractice1.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\AbstractPractice1\obj\Debug\AbstractPractice1.exe
+C:\Users\Пользователь\source\repos\AbstractPractice1\obj\Debug\AbstractPractice1.pdb
